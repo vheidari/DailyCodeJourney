@@ -57,13 +57,25 @@ A super cool technique for blending real-time cinematic animation with gameplay 
 
 ## Game Mechanic Examples
 
-...
-
 **My Open-Source “The Last of Us” Has Released:**
 
 * [https://www.youtube.com/watch?v=6frWwxP2i6Q](https://www.youtube.com/watch?v=6frWwxP2i6Q)
 
 ---
+
+
+## Animation and Cinematic Camera Move
+
+**Cinematic Camera Setup for Game Animation :**
+
+* [https://www.youtube.com/watch?v=rMiZK5vhvh4](https://www.youtube.com/watch?v=rMiZK5vhvh4)
+
+
+**AnimSchool Game Animation Promo :**
+
+* [https://www.youtube.com/watch?v=L-Z2fUDiF7Y&list=PLULtiaxD_GkRtDjWMuyCIhIT718kWrLH3](https://www.youtube.com/watch?v=L-Z2fUDiF7Y&list=PLULtiaxD_GkRtDjWMuyCIhIT718kWrLH3)
+
+
 
 ## Level Design Tips and Tricks
 
@@ -133,6 +145,14 @@ A super cool technique for blending real-time cinematic animation with gameplay 
 **What Kind of Math Should Game Developers Know?**
 
 * [https://www.youtube.com/watch?v=eRVRioN4GwA](https://www.youtube.com/watch?v=eRVRioN4GwA)
+
+
+
+**Maths for Game Development: Series Introduction (GetIntoGameDev) :**
+
+* [https://www.youtube.com/watch?v=6NB4Gn_BC_U&list=PLn3eTxaOtL2MfiIeGePe3tUGQ3Bi_IkXb](https://www.youtube.com/watch?v=6NB4Gn_BC_U&list=PLn3eTxaOtL2MfiIeGePe3tUGQ3Bi_IkXb)
+
+
 
 
 ---
