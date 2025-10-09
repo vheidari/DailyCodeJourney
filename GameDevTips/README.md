@@ -55,11 +55,40 @@ A super cool technique for blending real-time cinematic animation with gameplay 
 
 ---
 
+
+## Pre Rendered Graphic Technique 
+
+**The Timeless Beauty of Pre Rendered Graphics :**
+
+* [https://www.youtube.com/watch?v=e3SwbHIPnfo](https://www.youtube.com/watch?v=e3SwbHIPnfo)
+
+
+
+**An Adventure in Pre-Rendered Backgrounds :**
+
+* [https://www.jmeiners.com/pre-rendered-backgrounds/](https://www.jmeiners.com/pre-rendered-backgrounds/)
+
+
+
+
+---
+
 ## Game Mechanic Examples
 
 **My Open-Source “The Last of Us” Has Released:**
 
 * [https://www.youtube.com/watch?v=6frWwxP2i6Q](https://www.youtube.com/watch?v=6frWwxP2i6Q)
+
+**Building Better Crafting Systems :**
+
+* [https://www.youtube.com/watch?v=Nj7EaryBgak](https://www.youtube.com/watch?v=Nj7EaryBgak)
+
+**What Makes a Good Combat System?  :**
+
+* [https://www.youtube.com/watch?v=8X4fx-YncqA](https://www.youtube.com/watch?v=8X4fx-YncqA)
+
+
+
 
 ---
 
@@ -77,9 +106,21 @@ A super cool technique for blending real-time cinematic animation with gameplay 
 
 
 
-## Level Design Tips and Tricks
+## Level Design , Game Desing Tips and Tricks
 
 ...
+
+
+**Make Systems Not Games :**
+
+* [https://www.youtube.com/watch?v=QPuIysZxXwM](https://www.youtube.com/watch?v=QPuIysZxXwM)
+
+
+
+**Make Systems Not Games (Ludonaut) :**
+
+* [https://www.youtube.com/watch?v=BI2ZGA68bqg](https://www.youtube.com/watch?v=BI2ZGA68bqg)
+
 
 **12 Level Design Tips to Optimize Your Indie Game:**
 
@@ -113,19 +154,47 @@ A super cool technique for blending real-time cinematic animation with gameplay 
 
 * [https://www.youtube.com/watch?v=Mlf_pXwYajE](https://www.youtube.com/watch?v=Mlf_pXwYajE)
 
+
+**How to PLAN Your Game as a Solo Developer :**
+
+* [https://www.youtube.com/watch?v=NsMHicoZTzQ](https://www.youtube.com/watch?v=NsMHicoZTzQ)
+
+
+
 ---
 
-## Programming Tips
+## Programming Tips And References
 
 ...
 
-**3D Game Shaders for Beginners (Shader Programming):**
+**3D Game Shaders for Beginners (Shader Programming):** 
 
 * [https://lettier.github.io/3d-game-shaders-for-beginners/](https://lettier.github.io/3d-game-shaders-for-beginners/)
+
+
+
+**Game Programming Patterns (web, free):**
+
+* [https://gameprogrammingpatterns.com/contents.html](https://gameprogrammingpatterns.com/contents.html)
+
+
+
+**Best Code Architectures For Indie Games :**
+
+* [https://www.youtube.com/watch?v=8WqYQ1OwxJ4](https://www.youtube.com/watch?v=8WqYQ1OwxJ4)
+
+
+**What Makes Good AI? (Explanation) :**
+
+* [https://www.youtube.com/watch?v=9bbhJi0NBkk](https://www.youtube.com/watch?v=9bbhJi0NBkk)
+
 
 ---
 
 ## Math for Game Developers
+
+...
+
 
 **Math for Game Developers – Character Movement (Points and Vectors):**
 
@@ -153,6 +222,17 @@ A super cool technique for blending real-time cinematic animation with gameplay 
 * [https://www.youtube.com/watch?v=6NB4Gn_BC_U&list=PLn3eTxaOtL2MfiIeGePe3tUGQ3Bi_IkXb](https://www.youtube.com/watch?v=6NB4Gn_BC_U&list=PLn3eTxaOtL2MfiIeGePe3tUGQ3Bi_IkXb)
 
 
+**Immersive linear algebra (Web, free):**
+
+* [https://immersivemath.com/ila/index.html](https://immersivemath.com/ila/index.html)
+
+
+
+**3D Math Primer for Craphic and Game Development (Web, free):**
+
+* [https://gamemath.com/book/](https://gamemath.com/book/)
+
+
 
 
 ---
@@ -166,6 +246,14 @@ A super cool technique for blending real-time cinematic animation with gameplay 
 * [https://github.com/godotengine/awesome-godot](https://github.com/godotengine/awesome-godot)
 
 ---
+
+
+
+## Godot Demo :
+**Godot 4.3 + Quixel Assets + Mterrain + Custom Shaders**
+
+* [https://www.youtube.com/watch?v=8kAK1vRjlyI](hhttps://www.youtube.com/watch?v=8kAK1vRjlyI)
+
 
 ## Best Godot YouTube Channels
 
@@ -220,7 +308,71 @@ A super cool technique for blending real-time cinematic animation with gameplay 
 
 * [https://www.youtube.com/@TokisanGames](https://www.youtube.com/@TokisanGames)
 
+**FinePointCGI** (GameDev Series, Network, News, Programing)
+
+* [https://www.youtube.com/@FinePointCGI](https://www.youtube.com/@FinePointCGI)
+
+**Heartbeast** (GameDev Series, RPG, Hack-n-Slash, 2D, Platformer)
+
+* [https://www.youtube.com/@uheartbeast/](https://www.youtube.com/@uheartbeast/)
+
+
+**Sable Spirit** (Programing, Save, Navigation, Menu, Skybox,  State Pattern )
+
+* [https://www.youtube.com/@SableSpirit/videos](https://www.youtube.com/@SableSpirit/videos)
+
+
+**Ludonaut** (Tips and trick, Event , Programing)
+
+* [https://www.youtube.com/@uheartbeast/](https://www.youtube.com/@uheartbeast/)
+
+
+**LegionGames** (Tips and trick, RTS , FPS)
+
+* [https://www.youtube.com/@legiongames2400](https://www.youtube.com/@legiongames2400)
+
+
+**Dreamjob Gamedev** (GameDev, Shader, Devlog)
+
+* [https://www.youtube.com/@Dreamjob_Gamedev/videos](https://www.youtube.com/@Dreamjob_Gamedev/videos)
+
+
+**GW TUTS** (Devlog, GameDev)
+
+* [https://www.youtube.com/@Dreamjob_Gamedev/videos](https://www.youtube.com/@Dreamjob_Gamedev/videos)
+
+
+**Code It All** (Shader, light, Ai)
+
+* [https://www.youtube.com/@Code_It_All/videos](https://www.youtube.com/@Code_It_All/videos)
+
+
+
+
 ---
+
+
+## Godot Programing
+...
+
+**So I Made A Water Shader In Godot 4 And It Was Quite Simple  :**
+
+* [https://www.youtube.com/watch?v=CNE7EOVlYLY](https://www.youtube.com/watch?v=CNE7EOVlYLY)
+
+
+
+## Godot AI
+...
+
+
+## Godot Physics
+...
+
+
+## Godot Animation
+...
+
+
 
 ## Godot VFX
 
@@ -312,6 +464,9 @@ A super cool technique for blending real-time cinematic animation with gameplay 
 
 * [https://www.youtube.com/watch?v=N8bRwCvhH6g](https://www.youtube.com/watch?v=N8bRwCvhH6g)
 
+
+
+
 ---
 
 ## FPS Games in Godot
@@ -333,6 +488,49 @@ A super cool technique for blending real-time cinematic animation with gameplay 
 ---
 
 ## Other Tutorials
+
+
+
+
+**List of Godot Tutorials (RTS Series) (gameidea.org) :**
+
+* [https://gameidea.org/category/godot-tutorials/](https://gameidea.org/category/godot-tutorials/)
+
+**Grass Rendering Series Part 1: Theory :**
+
+* [https://hexaquo.at/pages/grass-rendering-series-part-1-theory/](https://hexaquo.at/pages/grass-rendering-series-part-1-theory/)
+
+* [https://hexaquo.at/pages/grass-rendering-series-part-2-full-geometry-grass-in-godot/](https://hexaquo.at/pages/grass-rendering-series-part-2-full-geometry-grass-in-godot/)
+
+* [https://hexaquo.at/pages/grass-rendering-series-part-3-animating-and-interacting-with-grass-in-godot/](https://hexaquo.at/pages/grass-rendering-series-part-3-animating-and-interacting-with-grass-in-godot/)
+
+**Environment and Light in Godot: Setting Up For Photorealistic 3D Graphics :**
+
+* [https://hexaquo.at/pages/environment-and-light-in-godot-setting-up-for-photorealistic-3d-graphics/](https://hexaquo.at/pages/environment-and-light-in-godot-setting-up-for-photorealistic-3d-graphics/)
+
+
+**Understanding Godot Light Shaders and Light Calculations by Implementing a Toon Light Shader :**
+
+* [https://hexaquo.at/pages/understanding-godot-light-shaders-and-light-calculations-by-implementing-a-toon-light-shader/](https://hexaquo.at/pages/understanding-godot-light-shaders-and-light-calculations-by-implementing-a-toon-light-shader/)
+
+
+
+**Realistic lights and post processing setup in godot 4 :**
+
+* [https://www.youtube.com/watch?v=HbZA1OiFFgU&list=PLXOuFjRwH6NhxefQlrXjVOwsel1DospfT](https://www.youtube.com/watch?v=HbZA1OiFFgU&list=PLXOuFjRwH6NhxefQlrXjVOwsel1DospfT)
+
+
+
+
+**Godot Shader for Beginners: Lightning Strike Effect using step and smoothstep :**
+
+* [https://hexaquo.at/pages/godot-shader-for-beginners-lightning-strike-effect-using-step-and-smoothstep/](https://hexaquo.at/pages/godot-shader-for-beginners-lightning-strike-effect-using-step-and-smoothstep/)
+
+
+**Introduction to Shaders :**
+
+* [https://hexaquo.at/pages/introduction-to-shaders/](https://hexaquo.at/pages/introduction-to-shaders/)
+
 
 **Godot 3D Strategy Game Tutorial – RTS Camera:**
 
@@ -369,6 +567,33 @@ A super cool technique for blending real-time cinematic animation with gameplay 
 **Godot Shader Tutorials:**
 
 * [https://www.youtube.com/playlist?list=PLEHvj4yeNfeEzJBqNriKFOxS_hAuiu-p-](https://www.youtube.com/playlist?list=PLEHvj4yeNfeEzJBqNriKFOxS_hAuiu-p-)
+
+
+**Godot Shader Tutorials:**
+
+* [https://www.youtube.com/playlist?list=PLEHvj4yeNfeEzJBqNriKFOxS_hAuiu-p-](https://www.youtube.com/playlist?list=PLEHvj4yeNfeEzJBqNriKFOxS_hAuiu-p-)
+
+**Creating A PS1 Resident Evil Prerender System In Godot  Tutorials:**
+
+* [https://www.youtube.com/watch?v=oFMcilEdfs0](https://www.youtube.com/watch?v=oFMcilEdfs0)
+
+
+**Let's Kick off Our Game! - Going over the Concept for Creating a Horror Game in Godot 4 :**
+
+* [https://www.youtube.com/watch?v=5rP_jCbd8eE&list=PLQl2eWiUO8_J_HkJ8eM4yuE-HCWYXS2id&index=1](https://www.youtube.com/watch?v=5rP_jCbd8eE&list=PLQl2eWiUO8_J_HkJ8eM4yuE-HCWYXS2id&index=1)
+
+**How to create realistic Sky , Cloud and Terrain in Godot  :**
+
+* [https://www.youtube.com/watch?v=pP6LDsOyIHM](https://www.youtube.com/watch?v=pP6LDsOyIHM)
+
+**How to create grass , stone and flower in Godot :**
+
+* [https://www.youtube.com/watch?v=bcFLQh5ZD8I](https://www.youtube.com/watch?v=bcFLQh5ZD8I)
+
+**Inventory Tutorial : In Depth - Fundamentals - Godot4 (Beginner)  :**
+
+* [https://www.youtube.com/watch?v=9wl9ryMPywI&list=PLgBln8F2Q8Bzx-_kyHoJ_N_JBXGxwx0lh](https://www.youtube.com/watch?v=9wl9ryMPywI&list=PLgBln8F2Q8Bzx-_kyHoJ_N_JBXGxwx0lh)
+
 
 ---
 
