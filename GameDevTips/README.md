@@ -1,7 +1,7 @@
 # Game Dev Tips, Techniques, and Great Resources
 
 Here’s a big list of game development techniques and tutorials that I’d like to learn.
-I plan to implement them one by one in the `Godot` game engine.
+I plan to implement them one by one in the `Godot` game engine. 
 
 ---
 
@@ -11,7 +11,46 @@ Let’s get familiar with common game development terminology on Wikipedia:
 
 * [https://en.wikipedia.org/wiki/Category:Video_game_terminology](https://en.wikipedia.org/wiki/Category:Video_game_terminology)
 
+
 ---
+
+## Great Books for Game Design
+There are a lot of books about game design that I don’t want to mention all of them here; I will just list the books that I would like to read.
+
+**The Art of Game Design: A Book of Lenses, Third Edition :**
+
+* [https://www.amazon.com/Art-Game-Design-Lenses-Third/dp/1138632058](https://www.amazon.com/Art-Game-Design-Lenses-Third/dp/1138632058)
+
+
+**The Ultimate Guide to Video Game Writing and Design :**
+
+* [https://www.amazon.com/Ultimate-Guide-Video-Writing-Design/dp/158065066X](https://www.amazon.com/Ultimate-Guide-Video-Writing-Design/dp/158065066X/)
+
+
+**Level Up! The Guide to Great Video Game Design 2nd Edition :**
+
+* [https://www.amazon.com/Level-Guide-Great-Video-Design/dp/1118877160](https://www.amazon.com/Level-Guide-Great-Video-Design/dp/1118877160)
+
+
+**Practical Game Design: A modern and comprehensive guide to video game design :**
+
+* [https://www.amazon.com/Practical-Game-Design-modern-comprehensive/dp/1803245158/](https://www.amazon.com/Practical-Game-Design-modern-comprehensive/dp/1803245158/)
+
+
+**Designing Games: A Guide to Engineering Experiences 1st Edition:**
+
+* [https://www.amazon.com/Designing-Games-Guide-Engineering-Experiences/dp/1449337937](https://www.amazon.com/Designing-Games-Guide-Engineering-Experiences/dp/1449337937)
+
+
+**Theory of Fun for Game Design 2nd Edition:**
+
+* [https://www.amazon.com/Theory-Game-Design-Raph-Koster/dp/1449363210](https://www.amazon.com/Theory-Game-Design-Raph-Koster/dp/1449363210)
+
+
+---
+
+
+
 
 ## Quick Time Events in Games
 
@@ -63,10 +102,20 @@ A super cool technique for blending real-time cinematic animation with gameplay 
 * [https://www.youtube.com/watch?v=e3SwbHIPnfo](https://www.youtube.com/watch?v=e3SwbHIPnfo)
 
 
-
 **An Adventure in Pre-Rendered Backgrounds :**
 
 * [https://www.jmeiners.com/pre-rendered-backgrounds/](https://www.jmeiners.com/pre-rendered-backgrounds/)
+
+
+**Timeless Beauty of pre rendered backgrouds in videogames  :**
+
+* [https://www.youtube.com/watch?v=mpBmwvVeFsE](https://www.youtube.com/watch?v=mpBmwvVeFsE)
+
+
+**The Beauty of Isometric Video Games   :**
+
+* [https://www.youtube.com/watch?v=rs4B8-qoY1I](https://www.youtube.com/watch?v=rs4B8-qoY1I)
+
 
 
 
@@ -115,8 +164,6 @@ A super cool technique for blending real-time cinematic animation with gameplay 
 
 * [https://www.youtube.com/watch?v=QPuIysZxXwM](https://www.youtube.com/watch?v=QPuIysZxXwM)
 
-
-
 **Make Systems Not Games (Ludonaut) :**
 
 * [https://www.youtube.com/watch?v=BI2ZGA68bqg](https://www.youtube.com/watch?v=BI2ZGA68bqg)
@@ -161,6 +208,43 @@ A super cool technique for blending real-time cinematic animation with gameplay 
 
 
 
+**42 Essential Game Dev Tips That Are Immutably Correct and Must Never Be Disputed by Anyone Ever At Any Time! :**
+
+* [https://modecollapse.substack.com/p/42-essential-game-dev-tips-that-are](https://modecollapse.substack.com/p/42-essential-game-dev-tips-that-are)
+
+
+**Play to the Audience #1: The Catch:**
+
+How Successful Games Hold Your Attention
+
+* [https://modecollapse.substack.com/p/play-to-the-audience-1-the-catch](https://modecollapse.substack.com/p/play-to-the-audience-1-the-catch)
+
+
+**Play to the Audience #2: The Hold:**
+
+How Successful Games Hold Your Attention
+
+* [https://modecollapse.substack.com/p/play-to-the-audience-2-the-hold](https://modecollapse.substack.com/p/play-to-the-audience-2-the-hold)
+
+**Play to the Audience #3 - The Test:**
+
+How Successful Games Hold Your Attention
+
+* [https://modecollapse.substack.com/p/play-to-the-audience-3-the-test](https://modecollapse.substack.com/p/play-to-the-audience-3-the-test)
+
+
+**Best Art Style for Beginner Game Developers ? :**
+
+* [https://www.youtube.com/watch?v=yXh4d0lEzaQ](https://www.youtube.com/watch?v=yXh4d0lEzaQ)
+
+
+
+**Tips for Successful Game Development :**
+
+* [https://ilogos.biz/tips-for-successful-game-development](https://ilogos.biz/tips-for-successful-game-development/)
+
+
+
 ---
 
 ## Programming Tips And References
@@ -171,22 +255,42 @@ A super cool technique for blending real-time cinematic animation with gameplay 
 
 * [https://lettier.github.io/3d-game-shaders-for-beginners/](https://lettier.github.io/3d-game-shaders-for-beginners/)
 
+**Game Development Data Structures (Javascript :), So Good ) :**
 
+* [https://www.youtube.com/watch?v=sx4IIQL0x7c&list=PLRL3Z3lpLmH0TYcatLqFCeLihTmrk_V4l](https://www.youtube.com/watch?v=sx4IIQL0x7c&list=PLRL3Z3lpLmH0TYcatLqFCeLihTmrk_V4l)
+
+**Data Structures & Optimization (Javascript :), So Good ) :**
+
+* [https://www.youtube.com/watch?v=247cXLkYt2M&list=PLRL3Z3lpLmH0FiSWovfiBtxNczQg0Hzry](https://www.youtube.com/watch?v=247cXLkYt2M&list=PLRL3Z3lpLmH0FiSWovfiBtxNczQg0Hzry)
+
+**Javascript 3D Game Development (Javascript :), So Good ) :**
+
+AI System, Minecraft in Javascript, simulation, Heightmap generation, LOD and Quadtree, Atmospheric Scattering , Particle System, Character Controller , Lighting , Camera and so on ...
+
+* [https://www.youtube.com/watch?v=kuy17LVDESk&list=PLRL3Z3lpLmH1EF4g__4gPevJhTArzy0k5](https://www.youtube.com/watch?v=kuy17LVDESk&list=PLRL3Z3lpLmH1EF4g__4gPevJhTArzy0k5)
 
 **Game Programming Patterns (web, free):**
 
 * [https://gameprogrammingpatterns.com/contents.html](https://gameprogrammingpatterns.com/contents.html)
 
-
-
 **Best Code Architectures For Indie Games :**
 
 * [https://www.youtube.com/watch?v=8WqYQ1OwxJ4](https://www.youtube.com/watch?v=8WqYQ1OwxJ4)
 
-
 **What Makes Good AI? (Explanation) :**
 
 * [https://www.youtube.com/watch?v=9bbhJi0NBkk](https://www.youtube.com/watch?v=9bbhJi0NBkk)
+
+**Blending in Detail :**
+
+* [https://blog.selfshadow.com/publications/blending-in-detail/](https://blog.selfshadow.com/publications/blending-in-detail/)
+
+
+**Optimization Techniques in Game Development :**
+
+* [https://codefinity.com/blog/Optimization-Techniques-in-Game-Development](https://codefinity.com/blog/Optimization-Techniques-in-Game-Development)
+
+
 
 
 ---
@@ -276,6 +380,9 @@ A super cool technique for blending real-time cinematic animation with gameplay 
 **Lukky**
 * [https://www.youtube.com/@lukky](https://www.youtube.com/@lukky)
 
+**Kasper Frandsen** ()
+* [https://www.youtube.com/@KasperFrandsen](https://www.youtube.com/@KasperFrandsen)
+
 **StayAtHomeDev** (FPS, Shaders, UI, News, Tips)
 
 * [https://www.youtube.com/@stayathomedev/playlists](https://www.youtube.com/@stayathomedev/playlists)
@@ -347,6 +454,15 @@ A super cool technique for blending real-time cinematic animation with gameplay 
 * [https://www.youtube.com/@Code_It_All/videos](https://www.youtube.com/@Code_It_All/videos)
 
 
+**Queble** (Programing, Tips and Trick, News )
+
+* [https://www.youtube.com/@queblegamedevelopment4143](https://www.youtube.com/@queblegamedevelopment4143)
+
+
+**Octodemy** (Programing, Tips and Trick, News )
+
+* [https://www.youtube.com/@octodemy/playlists](https://www.youtube.com/@octodemy/playlists)
+
 
 
 ---
@@ -355,9 +471,43 @@ A super cool technique for blending real-time cinematic animation with gameplay 
 ## Godot Programing
 ...
 
+
+**Godot Best practices :**
+
+* [https://docs.godotengine.org/en/stable/tutorials/best_practices/index.html](https://docs.godotengine.org/en/stable/tutorials/best_practices/index.html)
+
+
+
+**Learn GDScript From Zero (Godot4, Beginner, <3):**
+
+* [https://gdquest.github.io/learn-gdscript/](https://gdquest.github.io/learn-gdscript/)
+
+
+**Godot 101 (Godot4, Beginner, Good):**
+
+* [https://kidscancode.org/godot_recipes/4.x/g101/index.html](https://kidscancode.org/godot_recipes/4.x/g101/index.html)
+
+
+**14 tips and tricks in Godot! (Queble) :**
+
+* [https://www.youtube.com/watch?v=7Sf62lC3yGI](https://www.youtube.com/watch?v=7Sf62lC3yGI)
+
+
+**My favorite Tips and Tricks in Godot!! (Queble) :**
+
+* [https://www.youtube.com/watch?v=55_uuZVhSVE](https://www.youtube.com/watch?v=55_uuZVhSVE)
+
+
+**Things I wish I knew when starting Godot Game Development  (Queble) :**
+
+* [https://www.youtube.com/watch?v=5TPFW6RYy0E](https://www.youtube.com/watch?v=5TPFW6RYy0E)
+
+
 **So I Made A Water Shader In Godot 4 And It Was Quite Simple  :**
 
 * [https://www.youtube.com/watch?v=CNE7EOVlYLY](https://www.youtube.com/watch?v=CNE7EOVlYLY)
+
+
 
 
 
@@ -488,13 +638,32 @@ A super cool technique for blending real-time cinematic animation with gameplay 
 ---
 
 ## Other Tutorials
+...
+
+**Godot Tips and Tricks (Queble):**
+
+* [https://www.youtube.com/watch?v=_CQ-x_RpoOI&list=PLjduu5phInbUNTTzlbr_g3xgCFuBO18Wt](https://www.youtube.com/watch?v=_CQ-x_RpoOI&list=PLjduu5phInbUNTTzlbr_g3xgCFuBO18Wt)
 
 
+**Godot Tutorials (Queble):**
+
+* [https://www.youtube.com/watch?v=h21Lmg4o1Ks&list=PLjduu5phInbWYZPo-UaaTUe9ktfymK-Qe](https://www.youtube.com/watch?v=h21Lmg4o1Ks&list=PLjduu5phInbWYZPo-UaaTUe9ktfymK-Qe)
+
+
+**Pathfinding in Godot 4 (Queble):**
+
+* [https://www.youtube.com/watch?v=MtEh6vofiqQ&list=PLjduu5phInbWJE_WvOrLjayxox_1DpIPx](https://www.youtube.com/watch?v=MtEh6vofiqQ&list=PLjduu5phInbWJE_WvOrLjayxox_1DpIPx)
+
+
+**My favorite Tips and Tricks in Godot!!  (Queble):**
+
+* [https://www.youtube.com/watch?v=55_uuZVhSVE](https://www.youtube.com/watch?v=55_uuZVhSVE)
 
 
 **List of Godot Tutorials (RTS Series) (gameidea.org) :**
 
 * [https://gameidea.org/category/godot-tutorials/](https://gameidea.org/category/godot-tutorials/)
+
 
 **Grass Rendering Series Part 1: Theory :**
 
@@ -503,6 +672,7 @@ A super cool technique for blending real-time cinematic animation with gameplay 
 * [https://hexaquo.at/pages/grass-rendering-series-part-2-full-geometry-grass-in-godot/](https://hexaquo.at/pages/grass-rendering-series-part-2-full-geometry-grass-in-godot/)
 
 * [https://hexaquo.at/pages/grass-rendering-series-part-3-animating-and-interacting-with-grass-in-godot/](https://hexaquo.at/pages/grass-rendering-series-part-3-animating-and-interacting-with-grass-in-godot/)
+
 
 **Environment and Light in Godot: Setting Up For Photorealistic 3D Graphics :**
 
@@ -514,12 +684,9 @@ A super cool technique for blending real-time cinematic animation with gameplay 
 * [https://hexaquo.at/pages/understanding-godot-light-shaders-and-light-calculations-by-implementing-a-toon-light-shader/](https://hexaquo.at/pages/understanding-godot-light-shaders-and-light-calculations-by-implementing-a-toon-light-shader/)
 
 
-
 **Realistic lights and post processing setup in godot 4 :**
 
 * [https://www.youtube.com/watch?v=HbZA1OiFFgU&list=PLXOuFjRwH6NhxefQlrXjVOwsel1DospfT](https://www.youtube.com/watch?v=HbZA1OiFFgU&list=PLXOuFjRwH6NhxefQlrXjVOwsel1DospfT)
-
-
 
 
 **Godot Shader for Beginners: Lightning Strike Effect using step and smoothstep :**
@@ -593,6 +760,20 @@ A super cool technique for blending real-time cinematic animation with gameplay 
 **Inventory Tutorial : In Depth - Fundamentals - Godot4 (Beginner)  :**
 
 * [https://www.youtube.com/watch?v=9wl9ryMPywI&list=PLgBln8F2Q8Bzx-_kyHoJ_N_JBXGxwx0lh](https://www.youtube.com/watch?v=9wl9ryMPywI&list=PLgBln8F2Q8Bzx-_kyHoJ_N_JBXGxwx0lh)
+
+
+**Godot Tutorials (Rain Drop Shader, Simple Inter Active Grass , Making Simple Terrain, Cloud Animation ...):**
+
+* [https://www.youtube.com/watch?v=w3HcJXqDZPU&list=PLI2XkW0E3DLjutLIK4EtOWm1uKaz4rLxY](https://www.youtube.com/watch?v=w3HcJXqDZPU&list=PLI2XkW0E3DLjutLIK4EtOWm1uKaz4rLxY)
+
+
+
+**25 (more) advanced Godot tips and tricks   :**
+
+* [https://www.youtube.com/watch?v=4hpDreNwXAk](https://www.youtube.com/watch?v=4hpDreNwXAk)
+
+
+
 
 
 ---
