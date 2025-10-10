@@ -112,11 +112,65 @@ A super cool technique for blending real-time cinematic animation with gameplay 
 * [https://www.youtube.com/watch?v=mpBmwvVeFsE](https://www.youtube.com/watch?v=mpBmwvVeFsE)
 
 
-**The Beauty of Isometric Video Games   :**
+**The Beauty of Isometric Video Games :**
 
 * [https://www.youtube.com/watch?v=rs4B8-qoY1I](https://www.youtube.com/watch?v=rs4B8-qoY1I)
 
 
+**Devlog #38 - Harusbilis: Dynamic shadows over Pre-rendered backgrounds (Demo) :**
+
+* [https://www.youtube.com/watch?v=VlVwLB9h2dk](https://www.youtube.com/watch?v=VlVwLB9h2dk)
+
+
+
+**Pillars of Eternity Update 79: Graphics and Rendering  (Demo, Explain Technique) :**
+
+* [https://www.youtube.com/watch?v=ak52BLOFyuo&list=PL2XOCIitsZtFVsHEi174UD1txZKmcf2CA&index=14](https://www.youtube.com/watch?v=ak52BLOFyuo&list=PL2XOCIitsZtFVsHEi174UD1txZKmcf2CA&index=14)
+
+
+
+**Pillars of Eternity II: Deadfire - Backer Update 11 - Graphics   (Demo, Explain Technique) :**
+
+* [https://www.youtube.com/watch?v=oiep0wYfQPQ](https://www.youtube.com/watch?v=oiep0wYfQPQ)
+
+
+**Project Eternity Update #49: Water, Trees, Day/Night, Lighting... All That Jazz (Demo, Dynamic light, Fake3D, ) :**
+
+* [https://www.youtube.com/watch?v=AUleDEFkUtE&list=PL2XOCIitsZtFVsHEi174UD1txZKmcf2CA&index=23](https://www.youtube.com/watch?v=AUleDEFkUtE&list=PL2XOCIitsZtFVsHEi174UD1txZKmcf2CA&index=23)
+
+
+
+
+## Frustum and Occlusion culling Technique
+In a 3D rendering engine, occlusion culling is the process of performing hidden geometry removal.
+
+**Implementing FRUSTUM CULLING in my VULKAN GAME ENGINE (Kohi Episode 080)  :**
+
+* [https://www.youtube.com/watch?v=vJrfcI_bMTA](https://www.youtube.com/watch?v=vJrfcI_bMTA)
+
+**Frustum Culling // Terrain Rendering episode #9 (OGLDEV, OpenGl) :**
+
+* [https://www.youtube.com/watch?v=-ymmkfjMIeI](https://www.youtube.com/watch?v=-ymmkfjMIeI)
+
+**Optimization Tutorial: OCCLUSION CULLING in Godot (Zenva, Godot Engine) :**
+
+* [https://www.youtube.com/watch?v=VBiBZBVxu1s](https://www.youtube.com/watch?v=VBiBZBVxu1s)
+
+**Frustrum Culling: A Simpler Version Of Occlusion Culling :**
+
+* [https://vintay.medium.com/frustrum-culling-a-simpler-version-of-occlusion-culling-dd17445ecdf1](https://vintay.medium.com/frustrum-culling-a-simpler-version-of-occlusion-culling-dd17445ecdf1)
+
+**Frustum Culling :**
+
+* [https://learnopengl.com/Guest-Articles/2021/Scene/Frustum-Culling](https://learnopengl.com/Guest-Articles/2021/Scene/Frustum-Culling)
+
+**Occlusion culling :**
+
+* [https://docs.godotengine.org/en/stable/tutorials/3d/occlusion_culling.html](https://docs.godotengine.org/en/stable/tutorials/3d/occlusion_culling.html)
+
+
+**Occlusion culling showcase in Godot Engine  :**
+* [https://github.com/godotengine/godot-demo-projects/tree/master/3d/occlusion_culling_mesh_lod](https://github.com/godotengine/godot-demo-projects/tree/master/3d/occlusion_culling_mesh_lod)
 
 
 
@@ -132,12 +186,14 @@ A super cool technique for blending real-time cinematic animation with gameplay 
 
 * [https://www.youtube.com/watch?v=Nj7EaryBgak](https://www.youtube.com/watch?v=Nj7EaryBgak)
 
-**What Makes a Good Combat System?  :**
+**What Makes a Good Combat System ? :**
 
 * [https://www.youtube.com/watch?v=8X4fx-YncqA](https://www.youtube.com/watch?v=8X4fx-YncqA)
 
 
+**What Makes RTS Games Fun ? (GeneralsGentlemen) :**
 
+* [https://www.youtube.com/watch?v=p17-ZbiXSPM&list=PLQnCYzupbmdZyMHtqfONplLhs3L5JZ7k5](https://www.youtube.com/watch?v=p17-ZbiXSPM&list=PLQnCYzupbmdZyMHtqfONplLhs3L5JZ7k5)
 
 ---
 
@@ -354,9 +410,15 @@ AI System, Minecraft in Javascript, simulation, Heightmap generation, LOD and Qu
 
 
 ## Godot Demo :
+**Godot demo projects (Supper Useful)**
+
+Each directory teach us Godot feature
+
+* [https://github.com/godotengine/godot-demo-projects](https://github.com/godotengine/godot-demo-projects)
+
 **Godot 4.3 + Quixel Assets + Mterrain + Custom Shaders**
 
-* [https://www.youtube.com/watch?v=8kAK1vRjlyI](hhttps://www.youtube.com/watch?v=8kAK1vRjlyI)
+* [https://www.youtube.com/watch?v=8kAK1vRjlyI](https://www.youtube.com/watch?v=8kAK1vRjlyI)
 
 
 ## Best Godot YouTube Channels
@@ -444,6 +506,11 @@ AI System, Minecraft in Javascript, simulation, Heightmap generation, LOD and Qu
 * [https://www.youtube.com/@Dreamjob_Gamedev/videos](https://www.youtube.com/@Dreamjob_Gamedev/videos)
 
 
+**Zenva** (Devlog, GameDev)
+
+* [https://www.youtube.com/@Zenva](https://www.youtube.com/@Zenva)
+
+
 **GW TUTS** (Devlog, GameDev)
 
 * [https://www.youtube.com/@Dreamjob_Gamedev/videos](https://www.youtube.com/@Dreamjob_Gamedev/videos)
@@ -476,6 +543,10 @@ AI System, Minecraft in Javascript, simulation, Heightmap generation, LOD and Qu
 
 * [https://docs.godotengine.org/en/stable/tutorials/best_practices/index.html](https://docs.godotengine.org/en/stable/tutorials/best_practices/index.html)
 
+
+**GDScript style guide :**
+
+* [https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_styleguide.html](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_styleguide.html)
 
 
 **Learn GDScript From Zero (Godot4, Beginner, <3):**
@@ -521,6 +592,23 @@ AI System, Minecraft in Javascript, simulation, Heightmap generation, LOD and Qu
 
 ## Godot Animation
 ...
+
+
+
+
+## Godot Optimiztion
+...
+
+**Optimizing 3D performance ( Culling, Occlusion culling, Level of detail (LOD), Bake lighting ...):**
+
+* [https://docs.godotengine.org/en/latest/tutorials/performance/optimizing_3d_performance.html](https://docs.godotengine.org/en/latest/tutorials/performance/optimizing_3d_performance.html)
+
+
+**Optimization Tutorial: OCCLUSION CULLING in Godot :**
+
+* [https://www.youtube.com/watch?v=VBiBZBVxu1s](https://www.youtube.com/watch?v=VBiBZBVxu1s)
+
+
 
 
 
@@ -640,6 +728,19 @@ AI System, Minecraft in Javascript, simulation, Heightmap generation, LOD and Qu
 ## Other Tutorials
 ...
 
+
+**Experimental Series on Making an RTS (Nanotech Gamedev):**
+
+* [https://www.youtube.com/watch?v=t-tkFxhpiCs&list=PLUzx1-8efVAoswyWSJh-du7HCCuVL3ckt](https://www.youtube.com/watch?v=t-tkFxhpiCs&list=PLUzx1-8efVAoswyWSJh-du7HCCuVL3ckt)
+
+
+
+**Game Structures & Development (Nanotech Gamedev):**
+
+* [https://www.youtube.com/watch?v=5OwrghZtIyE&list=PLUzx1-8efVAqKvR9F-PAcUpF8aCHaRcte](https://www.youtube.com/watch?v=5OwrghZtIyE&list=PLUzx1-8efVAqKvR9F-PAcUpF8aCHaRcte)
+
+
+
 **Godot Tips and Tricks (Queble):**
 
 * [https://www.youtube.com/watch?v=_CQ-x_RpoOI&list=PLjduu5phInbUNTTzlbr_g3xgCFuBO18Wt](https://www.youtube.com/watch?v=_CQ-x_RpoOI&list=PLjduu5phInbUNTTzlbr_g3xgCFuBO18Wt)
@@ -735,7 +836,6 @@ AI System, Minecraft in Javascript, simulation, Heightmap generation, LOD and Qu
 
 * [https://www.youtube.com/playlist?list=PLEHvj4yeNfeEzJBqNriKFOxS_hAuiu-p-](https://www.youtube.com/playlist?list=PLEHvj4yeNfeEzJBqNriKFOxS_hAuiu-p-)
 
-
 **Godot Shader Tutorials:**
 
 * [https://www.youtube.com/playlist?list=PLEHvj4yeNfeEzJBqNriKFOxS_hAuiu-p-](https://www.youtube.com/playlist?list=PLEHvj4yeNfeEzJBqNriKFOxS_hAuiu-p-)
@@ -766,11 +866,17 @@ AI System, Minecraft in Javascript, simulation, Heightmap generation, LOD and Qu
 
 * [https://www.youtube.com/watch?v=w3HcJXqDZPU&list=PLI2XkW0E3DLjutLIK4EtOWm1uKaz4rLxY](https://www.youtube.com/watch?v=w3HcJXqDZPU&list=PLI2XkW0E3DLjutLIK4EtOWm1uKaz4rLxY)
 
-
-
 **25 (more) advanced Godot tips and tricks   :**
 
 * [https://www.youtube.com/watch?v=4hpDreNwXAk](https://www.youtube.com/watch?v=4hpDreNwXAk)
+
+
+**Godot Game Development (Zenva):**
+Crash Course, Farming , Procedural Generation , Crafting System, Enemy Collisions, Physics System , OCclusion Culling , LOD , Object Pool, 2D Controller , Loops,
+Damage System, Health System, Animations, Parallex Effect, Weapon Mechanics, Shader, Multi Player , Programing Pattern, Talk to NPCs, Paricles
+
+* [https://www.youtube.com/playlist?list=PLnEt5PBXuAmsMmS2w-mwnT1bk0JN2YyYM](https://www.youtube.com/playlist?list=PLnEt5PBXuAmsMmS2w-mwnT1bk0JN2YyYM)
+
 
 
 
