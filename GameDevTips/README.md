@@ -412,7 +412,7 @@ AI System, Minecraft in Javascript, simulation, Heightmap generation, LOD and Qu
 ## Godot Demo :
 **Godot demo projects (Supper Useful)**
 
-Each directory teach us Godot feature
+Each directory teach us Godot features
 
 * [https://github.com/godotengine/godot-demo-projects](https://github.com/godotengine/godot-demo-projects)
 
@@ -872,6 +872,7 @@ Each directory teach us Godot feature
 
 
 **Godot Game Development (Zenva):**
+
 Crash Course, Farming , Procedural Generation , Crafting System, Enemy Collisions, Physics System , OCclusion Culling , LOD , Object Pool, 2D Controller , Loops,
 Damage System, Health System, Animations, Parallex Effect, Weapon Mechanics, Shader, Multi Player , Programing Pattern, Talk to NPCs, Paricles
 
