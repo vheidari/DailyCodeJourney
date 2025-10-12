@@ -50,8 +50,6 @@ There are a lot of books about game design that I don’t want to mention all of
 ---
 
 
-
-
 ## Quick Time Events in Games
 
 This section covers how Quick Time Events (QTEs) work and how to implement them.
@@ -176,6 +174,42 @@ In a 3D rendering engine, occlusion culling is the process of performing hidden 
 
 ---
 
+## Depth of Field Technique
+
+**Depth of Field: An Easy Overview (2025) (Explanation) :**
+
+* [https://www.youtube.com/watch?v=qfkvw-Lrn7Q](https://www.youtube.com/watch?v=qfkvw-Lrn7Q)
+
+
+**What's The Deal With Depth Of Field :**
+
+* [https://www.youtube.com/watch?v=v9x_50czf-4](https://www.youtube.com/watch?v=v9x_50czf-4)
+
+
+**Unreal Game Project Test 064 - Rifle reloading, adaptive depth of field effect  :**
+
+* [https://www.youtube.com/watch?v=rzf6Iv8WvaQ](https://www.youtube.com/watch?v=rzf6Iv8WvaQ)
+
+
+---
+
+## Motion Blur Technique
+
+**Motion Blur ON v OFF - COMPARISON - Why you SHOULD turn it OFF - 1440p - Battlefield V  (Comprision) :**
+
+* [https://www.youtube.com/watch?v=R_oB9L8_F7I](https://www.youtube.com/watch?v=R_oB9L8_F7I)
+
+
+**Uncharted: The Lost Legacy| Motion Blur Comparison ON/OFF (Comprision) :**
+
+* [https://www.youtube.com/watch?v=H7jiszwVKp0](https://www.youtube.com/watch?v=H7jiszwVKp0)
+
+
+
+
+
+---
+
 ## Game Mechanic Examples
 
 **My Open-Source “The Last of Us” Has Released:**
@@ -195,8 +229,19 @@ In a 3D rendering engine, occlusion culling is the process of performing hidden 
 
 * [https://www.youtube.com/watch?v=p17-ZbiXSPM&list=PLQnCYzupbmdZyMHtqfONplLhs3L5JZ7k5](https://www.youtube.com/watch?v=p17-ZbiXSPM&list=PLQnCYzupbmdZyMHtqfONplLhs3L5JZ7k5)
 
----
 
+**Making A Stealth System That Doesn't Suck  :**
+
+* [https://www.youtube.com/watch?v=s_qX-nedA3E](https://www.youtube.com/watch?v=s_qX-nedA3E)
+
+
+**Game Creator 2 Crafting System Explained | Inventory Module Tutorial   :**
+
+* [https://www.youtube.com/watch?v=peQN_3QJA7E](https://www.youtube.com/watch?v=peQN_3QJA7E)
+
+
+
+---
 
 ## Animation and Cinematic Camera Move
 
@@ -215,6 +260,10 @@ In a 3D rendering engine, occlusion culling is the process of performing hidden 
 
 ...
 
+
+**Level Design Introduction Course :**
+
+* [https://www.youtube.com/watch?v=bpvRZifvrGc&list=PL1Ei8T50vpOcx4VHcB-eRE5zUQOv-DcT8](https://www.youtube.com/watch?v=bpvRZifvrGc&list=PL1Ei8T50vpOcx4VHcB-eRE5zUQOv-DcT8)
 
 **Make Systems Not Games :**
 
@@ -263,7 +312,6 @@ In a 3D rendering engine, occlusion culling is the process of performing hidden 
 * [https://www.youtube.com/watch?v=NsMHicoZTzQ](https://www.youtube.com/watch?v=NsMHicoZTzQ)
 
 
-
 **42 Essential Game Dev Tips That Are Immutably Correct and Must Never Be Disputed by Anyone Ever At Any Time! :**
 
 * [https://modecollapse.substack.com/p/42-essential-game-dev-tips-that-are](https://modecollapse.substack.com/p/42-essential-game-dev-tips-that-are)
@@ -294,10 +342,59 @@ How Successful Games Hold Your Attention
 * [https://www.youtube.com/watch?v=yXh4d0lEzaQ](https://www.youtube.com/watch?v=yXh4d0lEzaQ)
 
 
-
 **Tips for Successful Game Development :**
 
 * [https://ilogos.biz/tips-for-successful-game-development](https://ilogos.biz/tips-for-successful-game-development/)
+
+
+
+**What Is Greyboxing in Videogames?  :**
+
+* [https://www.youtube.com/watch?v=fjakOuNer78](https://www.youtube.com/watch?v=fjakOuNer78)
+
+
+
+**3 IMPORTANTN tips for Greybox / Whitebox Level Design :**
+
+* [https://www.youtube.com/watch?v=4wziE0AYCoo](https://www.youtube.com/watch?v=4wziE0AYCoo)
+
+
+**Wrenched Devlog #25 - How to Grey Box Indie Game Levels  :**
+
+* [https://www.youtube.com/watch?v=qKpc3XSC1rI](https://www.youtube.com/watch?v=qKpc3XSC1rI)
+
+
+
+**White boxing 🇬🇧 [~LEVEL DESIGN #10]   :**
+
+* [https://www.youtube.com/watch?v=AJH4lOpjGxQ](https://www.youtube.com/watch?v=AJH4lOpjGxQ)
+
+
+**Level Design for Stealth Games  :**
+
+So useful level design tips for Stealth Game
+
+* [https://www.youtube.com/watch?v=EIgwEZFEsB4](https://www.youtube.com/watch?v=EIgwEZFEsB4)
+
+
+**Making A Stealth System That Doesn't Suck  :**
+
+So useful level design tips for Stealth Game
+
+* [https://www.youtube.com/watch?v=s_qX-nedA3E](https://www.youtube.com/watch?v=s_qX-nedA3E)
+
+
+**Making a Parkour System That Doesn't Suck   :**
+
+So useful level design tips for Stealth Game
+
+* [https://www.youtube.com/watch?v=E9Znu_P7vJQ](https://www.youtube.com/watch?v=E9Znu_P7vJQ)
+
+
+**Stealth Game Design (Game Maker's Toolkit') :**
+
+* [https://www.youtube.com/watch?v=lfJ-vGXX9ag&list=PLc38fcMFcV_s8CEnf_j1ZOu-UCTEXRAfl&index=1](https://www.youtube.com/watch?v=lfJ-vGXX9ag&list=PLc38fcMFcV_s8CEnf_j1ZOu-UCTEXRAfl&index=1)
+
 
 
 
@@ -376,7 +473,6 @@ AI System, Minecraft in Javascript, simulation, Heightmap generation, LOD and Qu
 * [https://www.youtube.com/watch?v=eRVRioN4GwA](https://www.youtube.com/watch?v=eRVRioN4GwA)
 
 
-
 **Maths for Game Development: Series Introduction (GetIntoGameDev) :**
 
 * [https://www.youtube.com/watch?v=6NB4Gn_BC_U&list=PLn3eTxaOtL2MfiIeGePe3tUGQ3Bi_IkXb](https://www.youtube.com/watch?v=6NB4Gn_BC_U&list=PLn3eTxaOtL2MfiIeGePe3tUGQ3Bi_IkXb)
@@ -385,7 +481,6 @@ AI System, Minecraft in Javascript, simulation, Heightmap generation, LOD and Qu
 **Immersive linear algebra (Web, free):**
 
 * [https://immersivemath.com/ila/index.html](https://immersivemath.com/ila/index.html)
-
 
 
 **3D Math Primer for Craphic and Game Development (Web, free):**
@@ -577,6 +672,14 @@ Each directory teach us Godot features
 **So I Made A Water Shader In Godot 4 And It Was Quite Simple  :**
 
 * [https://www.youtube.com/watch?v=CNE7EOVlYLY](https://www.youtube.com/watch?v=CNE7EOVlYLY)
+
+
+**Godot Tidbits  :**
+
+Godot Signals , Autoload , Timer, Double jump, Trail Effect, Enemy Pathfinding,  Enemy Follow , Spawn Bullets ...
+
+* [https://www.youtube.com/playlist?list=PL_nw634GvXTYrP5ay4o1Y6luscbLiYZ6r](https://www.youtube.com/playlist?list=PL_nw634GvXTYrP5ay4o1Y6luscbLiYZ6r)
+
 
 
 
@@ -878,6 +981,49 @@ Damage System, Health System, Animations, Parallex Effect, Weapon Mechanics, Sha
 
 * [https://www.youtube.com/playlist?list=PLnEt5PBXuAmsMmS2w-mwnT1bk0JN2YyYM](https://www.youtube.com/playlist?list=PLnEt5PBXuAmsMmS2w-mwnT1bk0JN2YyYM)
 
+
+**Add Motion Blur To Your Godot Game in 2 Minutes :**
+
+* [https://www.youtube.com/watch?v=Kt5ylpjp1ew](https://www.youtube.com/watch?v=Kt5ylpjp1ew)
+
+
+
+**Godot's NEW feature is AWESOME  (CompositorEffect)  :**
+
+* [https://www.youtube.com/watch?v=rVcd8sLPsXU](https://www.youtube.com/watch?v=Kt5ylpjp1ew)
+
+
+
+**Compositor Effects And You: Unlocking Godot's Potential For Advanced Graphics Techniques – Acerola   :**
+
+* [https://www.youtube.com/watch?v=fiyf4XPanf4](https://www.youtube.com/watch?v=fiyf4XPanf4)
+
+
+
+
+**Fix Weapon Clipping and Custom FOV // Make An FPS in Godot 4 (E19)  :**
+
+* [https://www.youtube.com/watch?v=1WCibEaJFc0](https://www.youtube.com/watch?v=1WCibEaJFc0)
+
+
+
+**Create Auto Depth Of Field in Godot 4 (Tutorial)  :**
+
+* [https://www.youtube.com/watch?v=-bpxRpwBUts](https://www.youtube.com/watch?v=-bpxRpwBUts)
+
+
+
+
+**THIS Is How to Select Units in Your Next Godot RTS! ⭐️   :**
+
+* [https://www.youtube.com/watch?v=NxW9t-YgJkM](https://www.youtube.com/watch?v=NxW9t-YgJkM)
+
+
+
+
+**Dynamic Player Respawning System | Godot 4 Tutorial  :**
+
+* [https://www.youtube.com/watch?v=v8CYOhZKqew](https://www.youtube.com/watch?v=v8CYOhZKqew)
 
 
 
