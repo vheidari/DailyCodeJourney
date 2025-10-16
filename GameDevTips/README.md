@@ -505,6 +505,19 @@ AI System, Minecraft in Javascript, simulation, Heightmap generation, LOD and Qu
 
 
 ## Godot Demo :
+
+
+**Supper fancy Godot Engine Project by Jan Fidler (OUTSKIRTS) :**
+
+Jan, show us how we could implement an AAA-looking game environment in the Godot Game Engine. Jan is a Senior Environment Artist at 2K Czech (Hangar 13), one of my favorite game studios that makes the Mafia game. ❤️
+
+* [https://www.youtube.com/watch?v=rp8WQfMlnsw](https://www.youtube.com/watch?v=rp8WQfMlnsw)
+
+* [https://www.artstation.com/artwork/XJGr8D](https://www.artstation.com/artwork/XJGr8D)
+
+* [https://jedenjenda23.itch.io/outskirts-godot-environment-demo](https://jedenjenda23.itch.io/outskirts-godot-environment-demo)
+
+
 **Godot demo projects (Supper Useful)**
 
 Each directory teach us Godot features
@@ -514,6 +527,14 @@ Each directory teach us Godot features
 **Godot 4.3 + Quixel Assets + Mterrain + Custom Shaders**
 
 * [https://www.youtube.com/watch?v=8kAK1vRjlyI](https://www.youtube.com/watch?v=8kAK1vRjlyI)
+
+
+**Custom shaders for human characters made in Godot (Human Shader , Supper useful project by Matmadness) :**
+
+* [https://matmadness.itch.io/godot-human-shaders](https://matmadness.itch.io/godot-human-shaders)
+
+
+
 
 
 ## Best Godot YouTube Channels
