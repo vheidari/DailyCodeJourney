@@ -205,10 +205,35 @@ In a 3D rendering engine, occlusion culling is the process of performing hidden 
 * [https://www.youtube.com/watch?v=H7jiszwVKp0](https://www.youtube.com/watch?v=H7jiszwVKp0)
 
 
-
-
-
 ---
+
+## Tessellation And Displacment in the Games
+
+Through `tessellation` and `displacement` shaders, we can create high-detail objects in a game, particularly those within the field of view. When the camera is close to an object or mesh with a tessellation shader, the GPU adds detail by subdividing each triangle. The displacement shader, in conjunction with textures, creates a normal map that contributes to a mesh with realistic depth and height.
+
+Both shaders are assigned to a mesh through a `Material` and work to process vertices.
+
+    
+**Nanite Tessellation & Displacement - Unreal Engine 5 Tutorial for Beginners (UE 5.4)  :** 
+* [https://www.youtube.com/watch?v=JvUWdjERrfQ](https://www.youtube.com/watch?v=JvUWdjERrfQ)
+
+**What the Heck is Tessellation?! (Good Explanation) :** 
+
+* [https://www.youtube.com/watch?v=p_VpAMaxwpY](https://www.youtube.com/watch?v=p_VpAMaxwpY)
+
+**ShaderShorts : Game Environment Demo Tessellation Terrain (Good Demo ) :**
+    
+* [https://www.youtube.com/watch?v=9CPe3oN4PfY](https://www.youtube.com/watch?v=9CPe3oN4PfY)
+
+**What the heck is Displacment ?!: - How to Use Displacement Maps in Blender In 1 Minute! | Blender Tutorial (Good Demo):**
+
+* [https://www.youtube.com/watch?v=BPpe82hqfJo](https://www.youtube.com/watch?v=BPpe82hqfJo)
+
+    
+**Bake PERFECT Displacement Maps (with blender) (Good Demo) :** 
+* [https://www.youtube.com/watch?v=arvhK4tvYuY](https://www.youtube.com/watch?v=arvhK4tvYuY)
+
+
 
 ## Game Mechanic Examples
 
@@ -241,9 +266,18 @@ In a 3D rendering engine, occlusion culling is the process of performing hidden 
 
 
 
+**How Cover Systems Ruined Shooters (Cover system mechanic)   :**
+
+* [https://www.youtube.com/watch?v=sSGSj-evneo](https://www.youtube.com/watch?v=sSGSj-evneo)
+
+
+
+
+
+
 ---
 
-## Animation and Cinematic Camera Move
+## Animation and Cinema, Cinematic Camera Movement and Shots 
 
 **Cinematic Camera Setup for Game Animation :**
 
@@ -253,6 +287,87 @@ In a 3D rendering engine, occlusion culling is the process of performing hidden 
 **AnimSchool Game Animation Promo :**
 
 * [https://www.youtube.com/watch?v=L-Z2fUDiF7Y&list=PLULtiaxD_GkRtDjWMuyCIhIT718kWrLH3](https://www.youtube.com/watch?v=L-Z2fUDiF7Y&list=PLULtiaxD_GkRtDjWMuyCIhIT718kWrLH3)
+
+
+
+**Ultimate Guide to the Dolly Zoom — Camera Movement & When to Use It Explained  :**
+
+* [https://www.youtube.com/watch?v=9uwp-xksCAc&list=PLEzQZpmbzckWUQALEX8UlbyH2GtRLMrSd](https://www.youtube.com/watch?v=9uwp-xksCAc&list=PLEzQZpmbzckWUQALEX8UlbyH2GtRLMrSd)
+
+
+
+**StudioBinder Presents: Filmmaking Techniques for Directors (Trailer)  :**
+
+* [https://www.youtube.com/watch?v=cztKU_N3dy0&list=PLEzQZpmbzckWaFEvqma1sAppW8sF1OVjo](https://www.youtube.com/watch?v=cztKU_N3dy0&list=PLEzQZpmbzckWaFEvqma1sAppW8sF1OVjo)
+
+
+
+**High Angle Shots: 3 Towering Types of Camera Angles   :**
+
+* [https://www.youtube.com/watch?v=b-nqxw9mvn8&list=PLEzQZpmbzckX-GPpjzBF4cjgueZBX2bJD](https://www.youtube.com/watch?v=b-nqxw9mvn8&list=PLEzQZpmbzckX-GPpjzBF4cjgueZBX2bJD)
+
+
+
+**How To Create a Shot List Like Paul Thomas Anderson :**
+
+* [https://www.youtube.com/watch?v=RJcm0z5Wzy4&list=PLEzQZpmbzckWV5D-9ledMPTZRqBQpxJ4z](https://www.youtube.com/watch?v=RJcm0z5Wzy4&list=PLEzQZpmbzckWV5D-9ledMPTZRqBQpxJ4z)
+
+
+
+**Post-Production Hacks to Make a Cinematic Movie for Cheap  :**
+
+* [https://www.youtube.com/watch?v=fXdp-K882aE&list=PLEzQZpmbzckWgrUf--cD7pcl7rmzgaZcV](https://www.youtube.com/watch?v=fXdp-K882aE&list=PLEzQZpmbzckWgrUf--cD7pcl7rmzgaZcV)
+
+
+**A Guide to Funding Your Film — How Development Works in Film [Stages of Filmmaking, Ep 1]   :**
+
+* [https://www.youtube.com/watch?v=A0W0JLP7Eow&list=PLEzQZpmbzckW4OEWEBtMf37a5x03YZkJ8](https://www.youtube.com/watch?v=A0W0JLP7Eow&list=PLEzQZpmbzckW4OEWEBtMf37a5x03YZkJ8)
+
+
+
+**Coming of Age Movies — 3 Things All Great Rites of Passage Movies Have   :**
+
+* [https://www.youtube.com/watch?v=uT1e6GITCs0&list=PLEzQZpmbzckWfsraHPwlfVm5twkLw4Mc6](https://www.youtube.com/watch?v=uT1e6GITCs0&list=PLEzQZpmbzckWfsraHPwlfVm5twkLw4Mc6)
+
+
+
+
+**Ultimate Guide to Camera Shots: Every Shot Size Explained [The Shot List, Ep 1] :**
+
+* [https://www.youtube.com/watch?v=AyML8xuKfoc&list=PLEzQZpmbzckV0_a2QCO2qF9Yfe-LKSDha](https://www.youtube.com/watch?v=AyML8xuKfoc&list=PLEzQZpmbzckV0_a2QCO2qF9Yfe-LKSDha)
+
+
+
+**How to Write Fight Scenes like John Wick :**
+
+* [https://www.youtube.com/watch?v=oWUJt_dYFNw&list=PLEzQZpmbzckX-T0iZDy0ZaZLGHbYpeJph](https://www.youtube.com/watch?v=oWUJt_dYFNw&list=PLEzQZpmbzckX-T0iZDy0ZaZLGHbYpeJph)
+
+
+
+**Video Lighting Techniques — Nailing that Cinematic Look (with a Fill Light)  :**
+
+* [https://www.youtube.com/watch?v=n1EKLvdUSac&list=PLEzQZpmbzckX3A_SopJ-krGsV6BERxdwb](https://www.youtube.com/watch?v=n1EKLvdUSac&list=PLEzQZpmbzckX3A_SopJ-krGsV6BERxdwb)
+
+
+
+
+**How to Achieve a Cinematic Film Look [Sidney Lumet Making Movies]  :**
+
+* [https://www.youtube.com/watch?v=KdWdlM9x9l4&list=PLEzQZpmbzckUEYf2056g_3M7j9Woseyud](https://www.youtube.com/watch?v=KdWdlM9x9l4&list=PLEzQZpmbzckUEYf2056g_3M7j9Woseyud)
+
+
+
+**Another Great Resource (by StudioBinder) :**
+
+* [https://www.youtube.com/@StudioBinder/playlists](https://www.youtube.com/@StudioBinder/playlists)
+
+
+
+
+
+
+
+---
 
 
 
@@ -488,6 +603,61 @@ AI System, Minecraft in Javascript, simulation, Heightmap generation, LOD and Qu
 * [https://gamemath.com/book/](https://gamemath.com/book/)
 
 
+
+**Trajectory Line in Unity (This ain't your mothers trajectory line) :**
+
+Useful math and physics techniques to implement include throwing grenades, bullet trajectory, tossing coins, and strategies for battle.
+
+* [https://www.youtube.com/watch?v=p8e4Kpl9b28](https://www.youtube.com/watch?v=p8e4Kpl9b28)
+
+
+**You're Calculating Trajectories WRONG - Advanced Gamedev     :**
+
+Useful math and physics techniques to implement include throwing grenades, bullet trajectory, tossing coins, and strategies for battle.
+
+* [https://www.youtube.com/watch?v=ajxHYyNhrHg](https://www.youtube.com/watch?v=ajxHYyNhrHg)
+
+
+**How to simulate an arc projectile/throwing object in Godot 4 (4 min tutorial)     :**
+
+Useful math and physics techniques to implement include throwing grenades, bullet trajectory, tossing coins, and strategies for battle.
+
+* [https://www.youtube.com/watch?v=149eEOmeOys](https://www.youtube.com/watch?v=149eEOmeOys)
+
+
+**Projectile Trajectory Predictor - Unity Physics & Coding Tutorial    :**
+
+Useful math and physics techniques to implement include throwing grenades, bullet trajectory, tossing coins, and strategies for battle.
+
+* [https://www.youtube.com/watch?v=rgJGkYM2_6E](https://www.youtube.com/watch?v=rgJGkYM2_6E)
+
+
+**Firearm Science: Bullet Trajectory :**
+
+Useful math and physics techniques to implement include throwing grenades, bullet trajectory, tossing coins, and strategies for battle.
+
+* [https://www.youtube.com/watch?v=VqOqZBRZsj8](https://www.youtube.com/watch?v=VqOqZBRZsj8)
+
+
+**How Does a Bullet Fly? Bullet Trajectory Explained  :**
+
+Useful math and physics techniques to implement include throwing grenades, bullet trajectory, tossing coins, and strategies for battle.
+
+* [https://www.youtube.com/watch?v=BxzJpACLjJA](https://www.youtube.com/watch?v=BxzJpACLjJA)
+
+
+**introduction to projectile motion   :**
+
+Useful math and physics techniques to implement include throwing grenades, bullet trajectory, tossing coins, and strategies for battle.
+
+* [https://www.youtube.com/watch?v=uEnUG_1TYxc](https://www.youtube.com/watch?v=uEnUG_1TYxc)
+
+
+**Projectile motion | AP Physics | Khan Academy    :**
+
+Useful math and physics techniques to implement include throwing grenades, bullet trajectory, tossing coins, and strategies for battle.
+
+* [https://www.youtube.com/watch?v=txJP95lBv98](https://www.youtube.com/watch?v=txJP95lBv98)
 
 
 ---
