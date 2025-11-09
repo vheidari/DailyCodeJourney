@@ -74,9 +74,15 @@ A super cool technique for blending real-time cinematic animation with gameplay 
  
 *  [https://www.youtube.com/watch?v=bLVcw8eZObw&list=PLs1-UdHIwbo497viX2cCYHUNVBsORkhbl&t=711s](https://www.youtube.com/watch?v=bLVcw8eZObw&list=PLs1-UdHIwbo497viX2cCYHUNVBsORkhbl&t=711s)
 
-* **God of War Ragnarök**
+**God of War Ragnarök**
 
 * [https://www.youtube.com/watch?v=aUCzxjgDI0A](https://www.youtube.com/watch?v=aUCzxjgDI0A)
+
+
+**Interactive Cinematics In Uncharted 4 (So Good Explanation by GameAnim)**
+
+* [https://www.youtube.com/watch?v=0Hpk0l8-PAY](https://www.youtube.com/watch?v=0Hpk0l8-PAY)
+
 
 **How to Create a Cutscene-to-Gameplay Transition – Unreal Engine 5 Tutorial:**
 

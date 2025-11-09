@@ -9,8 +9,8 @@
 
 class HelloWorldWindow : public Gtk::Window
 {
-public:
-  HelloWorldWindow();
+    public:
+        HelloWorldWindow();
 };
 
 HelloWorldWindow::HelloWorldWindow()
