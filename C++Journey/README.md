@@ -41,6 +41,31 @@ Url:
     https://awesomekling.github.io/
 ---------------------------------------------------------------------
 
+
+Name : 
+    Linus's Blog
+
+Description : 
+    Low Level Stuff, Os Development, Javascript Engine development , Browser Development (C/C++, Zig)
+
+Url: 
+    https://linus.dev/posts/
+---------------------------------------------------------------------
+
+
+
+Name : 
+    Domi's Blog
+
+Description : 
+    Low Level Stuff, Os Development, Hacking, Harward
+
+Url: 
+    https://sdomi.pl/weblog/
+---------------------------------------------------------------------
+
+
+
 Name : 
     Vittorio's Blog
 
