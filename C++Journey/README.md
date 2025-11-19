@@ -1,4 +1,4 @@
-#C/C++ Hack
+# C/C++ Hack
 
 Here, I would like to share some `hacks` for the `C/C++` languages. I will provide a lot of tips and tricks that I've learned in both languages.
 
