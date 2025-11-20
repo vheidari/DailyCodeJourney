@@ -6,6 +6,54 @@ More directories will be added in the future.
 
 --
 
+## List Of Tools 
+
+```
+
+
+Name : 
+     Compiler Explorer
+
+Description :
+    Compiler Explorer is an interactive online compiler which shows the assembly output of compiled C++, Rust, Go
+
+Url :
+    https://godbolt.org/
+
+---------------------------------------------------------------------
+
+
+
+Name : 
+    Quick C++ Benchmark     
+
+Description :
+    Online C++ Benchmark Tool 
+
+Url :
+    https://quick-bench.com/
+
+---------------------------------------------------------------------
+
+
+Name : 
+     OnlineGDB
+
+Description :
+    Online C++ Compiler 
+
+Url :
+    https://www.onlinegdb.com/
+
+---------------------------------------------------------------------
+
+
+
+
+```
+
+
+
 ## List of Really Readable Blogs
 Here, I will add a list of really good blogs. I use them to learn more about programming, and I would like to thank all of these individuals for sharing their knowledge with others. we will go to name this section bookmarks.
 
@@ -31,6 +79,19 @@ Url:
     https://austinmorlan.com/
 ---------------------------------------------------------------------
 
+
+Name : 
+    Zuhaitz's Blog
+
+Description : 
+    Low Level Stuff C and C++ , Assembly
+
+Url: 
+    https://zuhaitz.dev/
+    https://x.com/zuhaitz_dev
+---------------------------------------------------------------------
+
+
 Name : 
     Andreas Kling's Blog
 
@@ -52,8 +113,6 @@ Url:
     https://linus.dev/posts/
 ---------------------------------------------------------------------
 
-
-
 Name : 
     Domi's Blog
 
@@ -63,8 +122,6 @@ Description :
 Url: 
     https://sdomi.pl/weblog/
 ---------------------------------------------------------------------
-
-
 
 Name : 
     Vittorio's Blog
@@ -94,6 +151,29 @@ Description :
 
 Url: 
     https://popovicu.com/posts/
+
+---------------------------------------------------------------------
+
+Name : 
+    Fabien Sanlard's Blog
+
+Description : 
+    Professional low level stuff about game and graphic development
+
+Url: 
+    https://fabiensanglard.net/
+
+---------------------------------------------------------------------
+
+
+Name : 
+    Gustavo Pezzi's Blog
+
+Description : 
+    C Programing course , Graphic Programing, Compiler Programing and etc 
+
+Url: 
+    https://pikuma.com/blog
 
 ---------------------------------------------------------------------
 
@@ -373,6 +453,52 @@ Description :
 
 Url: 
     https://cppcast.com/episodes/
+
+---------------------------------------------------------------------
+
+Name : 
+    Fluentcpp's Blog
+
+Description : 
+    C++ Tips and Trick by Jonathan Boccara.
+
+Url: 
+    https://cppcast.com/episodes/
+
+---------------------------------------------------------------------
+
+Name : 
+   Meetingcpp's Blog
+
+Description : 
+    C++ Tutorila, C++ News , Books and so on
+
+Url: 
+    https://www.meetingcpp.com/index.html
+
+---------------------------------------------------------------------
+
+
+Name : 
+   Microsoft C++ Team's Blog
+
+Description : 
+    C++ Tutorila, C++ News 
+
+Url: 
+    https://devblogs.microsoft.com/cppblog/
+
+---------------------------------------------------------------------
+
+
+Name : 
+   Ryan Fleur's Blog
+
+Description : 
+    Low level Stuff, C and Programing Ideom
+
+Url: 
+    https://www.rfleury.com
 
 ---------------------------------------------------------------------
 
