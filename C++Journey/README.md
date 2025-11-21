@@ -4,7 +4,7 @@ Here, I would like to share some `hacks` for the `C/C++` languages. I will provi
 
 More directories will be added in the future.
 
---
+
 
 ## List Of Tools 
 
@@ -41,9 +41,6 @@ Url :
     - https://google.github.io/styleguide/cppguide.html
 
 ---------------------------------------------------------------------
-
-
-
 
 Name : 
      OnlineGDB
@@ -603,7 +600,6 @@ Url:
 
 ---------------------------------------------------------------------
 
-
 Name : 
     Matthias's Blog
 
@@ -638,7 +634,6 @@ Url:
 
 ---------------------------------------------------------------------
 
-
 Name : 
    Kernelnewbies's blog
 
@@ -652,8 +647,6 @@ Url:
     - https://kernelnewbies.org/ABI
 
 ---------------------------------------------------------------------
-
-
 
 Name : 
     Vladimir Keleshev's blog
