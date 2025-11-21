@@ -9,8 +9,6 @@ More directories will be added in the future.
 ## List Of Tools 
 
 ```
-
-
 Name : 
      Compiler Explorer
 
@@ -18,11 +16,9 @@ Description :
     Compiler Explorer is an interactive online compiler which shows the assembly output of compiled C++, Rust, Go
 
 Url :
-    https://godbolt.org/
+    - https://godbolt.org/
 
 ---------------------------------------------------------------------
-
-
 
 Name : 
     Quick C++ Benchmark     
@@ -31,9 +27,22 @@ Description :
     Online C++ Benchmark Tool 
 
 Url :
-    https://quick-bench.com/
+    - https://quick-bench.com/
 
 ---------------------------------------------------------------------
+
+Name : 
+   Google C++ Style Guide
+
+Description :
+    Learning how programmers at Google write C++ code.
+
+Url :
+    - https://google.github.io/styleguide/cppguide.html
+
+---------------------------------------------------------------------
+
+
 
 
 Name : 
@@ -43,7 +52,7 @@ Description :
     Online C++ Compiler 
 
 Url :
-    https://www.onlinegdb.com/
+    - https://www.onlinegdb.com/
 
 ---------------------------------------------------------------------
 
@@ -66,7 +75,7 @@ Description :
     C Programing, Project base ()
 
 Url: 
-    https://devlogs.xyz/
+    - https://devlogs.xyz/
 ---------------------------------------------------------------------
 
 Name : 
@@ -76,7 +85,7 @@ Description :
     Low Level Stuff and Hardware (FPGA, C , C++)
 
 Url: 
-    https://austinmorlan.com/
+    - https://austinmorlan.com/
 ---------------------------------------------------------------------
 
 
@@ -87,8 +96,8 @@ Description :
     Low Level Stuff C and C++ , Assembly
 
 Url: 
-    https://zuhaitz.dev/
-    https://x.com/zuhaitz_dev
+    - https://zuhaitz.dev/
+    - https://x.com/zuhaitz_dev
 ---------------------------------------------------------------------
 
 
@@ -99,7 +108,7 @@ Description :
     Low Level Stuff, C++ Tips and Trick , Os Development
 
 Url: 
-    https://awesomekling.github.io/
+    - https://awesomekling.github.io/
 ---------------------------------------------------------------------
 
 
@@ -110,7 +119,7 @@ Description :
     Low Level Stuff, Os Development, Javascript Engine development , Browser Development (C/C++, Zig)
 
 Url: 
-    https://linus.dev/posts/
+    - https://linus.dev/posts/
 ---------------------------------------------------------------------
 
 Name : 
@@ -120,7 +129,7 @@ Description :
     Low Level Stuff, Os Development, Hacking, Harward
 
 Url: 
-    https://sdomi.pl/weblog/
+    - https://sdomi.pl/weblog/
 ---------------------------------------------------------------------
 
 Name : 
@@ -130,7 +139,7 @@ Description :
     thoughts on C++ and game development
 
 Url: 
-    https://vittorioromeo.com/index.html
+    - https://vittorioromeo.com/index.html
 ---------------------------------------------------------------------
 
 Name : 
@@ -140,7 +149,7 @@ Description :
     Practical Guide to Bare Metal C++ (Embedded Development)
 
 Url: 
-    https://arobenko.github.io/bare_metal_cpp/
+    - https://arobenko.github.io/bare_metal_cpp/
 ---------------------------------------------------------------------
 
 Name : 
@@ -150,7 +159,7 @@ Description :
     Project Base Hardware and Software Tutorial , Great Resource About Low Level Stuff
 
 Url: 
-    https://popovicu.com/posts/
+    - https://popovicu.com/posts/
 
 ---------------------------------------------------------------------
 
@@ -161,7 +170,7 @@ Description :
     Professional low level stuff about game and graphic development
 
 Url: 
-    https://fabiensanglard.net/
+    - https://fabiensanglard.net/
 
 ---------------------------------------------------------------------
 
@@ -173,7 +182,7 @@ Description :
     C Programing course , Graphic Programing, Compiler Programing and etc 
 
 Url: 
-    https://pikuma.com/blog
+    - https://pikuma.com/blog
 
 ---------------------------------------------------------------------
 
@@ -184,7 +193,7 @@ Description :
     The little book about OS development
 
 Url: 
-    https://littleosbook.github.io/
+    - https://littleosbook.github.io/
 
 ---------------------------------------------------------------------
 
@@ -195,7 +204,7 @@ Description :
     V8 Engine Blog, tips and trick about Performance and Programing
 
 Url: 
-    https://v8.dev/blog
+    - https://v8.dev/blog
 
 ---------------------------------------------------------------------
 
@@ -206,7 +215,7 @@ Description :
     Low Level Stuff and Rust (Creating a Debuger)
 
 Url: 
-    https://www.timdbg.com/
+    - https://www.timdbg.com/
 
 ---------------------------------------------------------------------
 
@@ -217,7 +226,7 @@ Description :
     Data Structures and Algorithms (DSA) Tutorial
 
 Url: 
-    https://www.tutorialspoint.com/data_structures_algorithms/index.htm
+    - https://www.tutorialspoint.com/data_structures_algorithms/index.htm
 
 ---------------------------------------------------------------------
 
@@ -228,7 +237,7 @@ Description :
     Security, tutorial (Ex: Building a BitTorrent Client in Go)
 
 Url: 
-    https://blog.jse.li/posts/
+    - https://blog.jse.li/posts/
 
 ---------------------------------------------------------------------
 
@@ -239,7 +248,7 @@ Description :
     C/C++ Stuff 
 
 Url: 
-    https://ianyepan.github.io/
+    - https://ianyepan.github.io/
 
 ---------------------------------------------------------------------
 
@@ -250,7 +259,7 @@ Description :
     C/C++ , Porting C++ GameEngine, Graphic programing , Physic engine, Opengl , Math, Game Dev
 
 Url: 
-    https://lisyarus.github.io/blog/
+    - https://lisyarus.github.io/blog/
 
 ---------------------------------------------------------------------
 
@@ -261,7 +270,7 @@ Description :
     C/C++ , Rust, Linux, 
 
 Url: 
-    https://blog.billvanleeuwen.ca
+    - https://blog.billvanleeuwen.ca
 
 ---------------------------------------------------------------------
 
@@ -272,7 +281,7 @@ Description :
     C , Go and Programing post (Ex: Making a simple HTTP webserver in C)
 
 Url: 
-    https://bruinsslot.jp/post/
+    - https://bruinsslot.jp/post/
 
 ---------------------------------------------------------------------
 
@@ -283,7 +292,7 @@ Description :
     Introduction to Zig
 
 Url: 
-    https://pedropark99.github.io/zig-book/
+    - https://pedropark99.github.io/zig-book/
 
 ---------------------------------------------------------------------
 
@@ -294,7 +303,7 @@ Description :
     C, Rust , Network Programing 
 
 Url: 
-    https://jaehong21.com/posts/
+    - https://jaehong21.com/posts/
 
 ---------------------------------------------------------------------
 
@@ -305,7 +314,7 @@ Description :
     C, and Low Level Stuff like Memory Managment , Macro , Concurrency in C
 
 Url: 
-    https://h4x0r.org/
+    - https://h4x0r.org/
 
 ---------------------------------------------------------------------
 
@@ -316,7 +325,7 @@ Description :
     Compiler , C/C++ , ABI
 
 Url: 
-    https://blog.llvm.org/
+    - https://blog.llvm.org/
 
 ---------------------------------------------------------------------
 
@@ -327,12 +336,12 @@ Description :
     Roll your own toy UNIX-clone OS (Access By web archive)
 
 Url: 
-    https://web.archive.org/web/20130207230123/http://www.jamesmolloy.co.uk/tutorial_html/index.html
+    - https://web.archive.org/web/20130207230123/http://www.jamesmolloy.co.uk/tutorial_html/index.html
 
 Project Url:
-    https://github.com/cirosantilli/jamesmolloy-kernel-development-tutorials/tree/master -> tutorials 
-    https://github.com/jmolloy/JMTK -> C OS/Kernel Development - in each .c file we could find interesting tutorial
-    https://github.com/jmolloy/pedigree/tree/master -> C OS/Kernel Development
+    - https://github.com/cirosantilli/jamesmolloy-kernel-development-tutorials/tree/master -> tutorials 
+    - https://github.com/jmolloy/JMTK -> C OS/Kernel Development - in each .c file we could find interesting tutorial
+    - https://github.com/jmolloy/pedigree/tree/master -> C OS/Kernel Development
 
 ---------------------------------------------------------------------
 
@@ -343,7 +352,7 @@ Description :
     Os/Kernel/Gui development (Access By web archive) one of the best resource
 
 Url: 
-    https://web.archive.org/web/20130216051840/http://www.osdever.net/tutorials/
+    - https://web.archive.org/web/20130216051840/http://www.osdever.net/tutorials/
 
 Projects Url:
     
@@ -357,7 +366,7 @@ Description :
     256-Color VGA and Gui Programming in C, (Access By web archive) one of the best resource to learn VGA and Gui Programing
 
 Url: 
-    https://web.archive.org/web/20240812211701/http://www.brackeen.com/vga/
+    - https://web.archive.org/web/20240812211701/http://www.brackeen.com/vga/
 
 ---------------------------------------------------------------------
 
@@ -368,7 +377,7 @@ Description :
     Writing an OS in Rust , one of the best resource for os development
 
 Url: 
-    https://os.phil-opp.com/
+    - https://os.phil-opp.com/
 
 ---------------------------------------------------------------------
 
@@ -380,7 +389,7 @@ Description :
 
 
 Url: 
-    https://www.randomhacks.net/bare-metal-rust/
+    - https://www.randomhacks.net/bare-metal-rust/
 
 ---------------------------------------------------------------------
 
@@ -392,10 +401,10 @@ Description :
 
 
 Url: 
-    https://rwth-os.github.io/eduOS/
+    - https://rwth-os.github.io/eduOS/
 
 Project Url :
-    https://github.com/RWTH-OS/eduOS
+    - https://github.com/RWTH-OS/eduOS
 
 ---------------------------------------------------------------------
 
@@ -406,7 +415,7 @@ Description :
     Linux kernel , C , Hardware , Driver , bootloader ...
 
 Url: 
-    https://embetronicx.com/category/tutorials/
+    - https://embetronicx.com/category/tutorials/
 
 ---------------------------------------------------------------------
 
@@ -417,7 +426,7 @@ Description :
     The Linux Kernel Module Programming Guide
 
 Url: 
-    https://sysprog21.github.io/lkmpg/
+    - https://sysprog21.github.io/lkmpg/
 
 ---------------------------------------------------------------------
 
@@ -428,9 +437,9 @@ Description :
     Learn C and C++ Programming - Algorithms and data structures in C/C++
 
 Url: 
-    https://www.cprogramming.com/
-    https://www.cprogramming.com/algorithms-and-data-structures.html?inl=hp
-    https://www.cprogramming.com/tutorial.html?inl=nv
+    - https://www.cprogramming.com/
+    - https://www.cprogramming.com/algorithms-and-data-structures.html?inl=hp
+    - https://www.cprogramming.com/tutorial.html?inl=nv
 
 ---------------------------------------------------------------------
 
@@ -441,7 +450,7 @@ Description :
     C++ and Functional Programing
 
 Url: 
-    https://chshersh.com/index.html
+    - https://chshersh.com/index.html
 
 ---------------------------------------------------------------------
 
@@ -452,7 +461,7 @@ Description :
     So Good PODCASD for C++ Developers
 
 Url: 
-    https://cppcast.com/episodes/
+    - https://cppcast.com/episodes/
 
 ---------------------------------------------------------------------
 
@@ -463,7 +472,7 @@ Description :
     C++ Tips and Trick by Jonathan Boccara.
 
 Url: 
-    https://cppcast.com/episodes/
+    - https://cppcast.com/episodes/
 
 ---------------------------------------------------------------------
 
@@ -474,7 +483,7 @@ Description :
     C++ Tutorila, C++ News , Books and so on
 
 Url: 
-    https://www.meetingcpp.com/index.html
+    - https://www.meetingcpp.com/index.html
 
 ---------------------------------------------------------------------
 
@@ -486,7 +495,7 @@ Description :
     C++ Tutorila, C++ News 
 
 Url: 
-    https://devblogs.microsoft.com/cppblog/
+    - https://devblogs.microsoft.com/cppblog/
 
 ---------------------------------------------------------------------
 
@@ -498,9 +507,175 @@ Description :
     Low level Stuff, C and Programing Ideom
 
 Url: 
-    https://www.rfleury.com
+    - https://www.rfleury.com
 
 ---------------------------------------------------------------------
+
+
+Name : 
+   gpfault's Blog
+
+Description : 
+    Low level Stuff, C++ and Assembly Tips and Trick and also Graphic Programing
+
+Url: 
+    - https://gpfault.net/
+
+---------------------------------------------------------------------
+
+
+Name : 
+   Mario Zechner's Blog
+
+Description : 
+    OOP, Java , C , Graphic programing (libGDX author)
+
+Url: 
+    - https://marioslab.io/posts/
+    - https://marioslab.io/projects/
+
+---------------------------------------------------------------------
+
+Name : 
+    Andre Weissflog's Blog
+
+Description : 
+    OOP, Zig , WebAssembly, C , Graphic programing , System Design , C++
+
+Url: 
+    - https://floooh.github.io/archive/
+
+---------------------------------------------------------------------
+
+Name : 
+    Alan Wolfe's Blog
+
+Description : 
+    Programming, Graphics, Gamedev, Exotic Computation, Audio Synthesis
+
+Url: 
+    - https://blog.demofox.org
+
+---------------------------------------------------------------------
+
+Name : 
+    Eric Arnebäck's Blog
+
+Description : 
+    Programming, Graphics, Gamedev, Opengl , C++, C# , Javascript , Computer Vision
+
+Url: 
+    - https://erkaman.github.io/
+
+---------------------------------------------------------------------
+
+Name : 
+    Learn C++'s Blog
+
+Description : 
+    LearnCpp.com is a free website devoted to teaching you how to program in modern C++
+
+Url: 
+    - https://www.learncpp.com/
+
+---------------------------------------------------------------------
+
+Name : 
+    Coding Challenge's Blog
+
+Description : 
+    Helping you become a better software engineer through coding challenges that build real applications.
+
+Url: 
+    - https://codingchallenges.fyi/blog
+    - https://codingchallenges.fyi/challenges/intro
+
+---------------------------------------------------------------------
+
+Name : 
+    Linux From Scratch's Blog
+
+Description : 
+    Linux From Scratch (LFS) is a project that provides you with step-by-step instructions for building your own custom Linux system
+
+Url: 
+    - https://www.linuxfromscratch.org/
+
+---------------------------------------------------------------------
+
+
+Name : 
+    Matthias's Blog
+
+Description : 
+    Rust , Kernel , Electronic
+
+Url: 
+    - https://not-matthias.github.io/posts/
+
+---------------------------------------------------------------------
+
+
+Name : 
+    Bill Van Leeuwen's Blog
+
+Description : 
+   Linux, Kernel, Rust, Electronic, C
+
+Url: 
+    - https://not-matthias.github.io/posts/
+
+---------------------------------------------------------------------
+
+Name : 
+    The Linux Kernel's blog
+
+Description : 
+   HOWTO do Linux kernel development
+
+Url: 
+    - https://www.kernel.org/doc/html/v4.14/process/howto.html
+
+---------------------------------------------------------------------
+
+
+Name : 
+   Kernelnewbies's blog
+
+Description : 
+   Kernelnewbies is a community of aspiring Linux kernel developers who work to improve their Kernels and more experienced developers willing to share their knowledge. 
+
+Url: 
+    - https://kernelnewbies.org/FirstKernelPatch
+    - https://kernelnewbies.org/Documents
+    - https://kernelnewbies.org/KernelProjects
+    - https://kernelnewbies.org/ABI
+
+---------------------------------------------------------------------
+
+
+
+Name : 
+    Vladimir Keleshev's blog
+
+Description : 
+    Embedded systems, safety-critical systems, compilers, and now in finance (C, TypeScript, Electronic, OCaml)
+
+Url: 
+    - https://keleshev.com/
+    - https://keleshev.com/abstract-syntax-tree-an-example-in-c/
+    - https://keleshev.com/eax-x86-register-meaning-and-history/
+    - https://keleshev.com/one-pass-compiler-primer
+    - https://keleshev.com/ldm-my-favorite-arm-instruction/
+    - https://keleshev.com/writing-a-book-with-pandoc-make-and-vim/
+
+
+---------------------------------------------------------------------
+
+
+
+
+
 
 
 
