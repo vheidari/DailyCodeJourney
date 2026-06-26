@@ -666,7 +666,19 @@ Url:
 ---------------------------------------------------------------------
 
 
+Name : 
+    Agner's blog
 
+Description : 
+    Software optimization resources, C/C++, Assembly
+
+Url: 
+    - https://www.agner.org/optimize/
+    - https://www.agner.org/random/
+    - https://www.agner.org/publications/
+
+
+---------------------------------------------------------------------
 
 
 
